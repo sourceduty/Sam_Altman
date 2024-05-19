@@ -6,5 +6,30 @@ The [Sam Altman](https://chatgpt.com/g/g-ljkiZfWFb-sam-altman) custom GPT, was d
 
 This custom GPT can assist users by explaining current and future trends in artificial intelligence and machine learning, discussing the impact of AI on various industries and society, and offering insights into the latest technological advancements. It provides advice on starting and scaling businesses, strategies for successful fundraising and investment, and effective leadership practices. Additionally, it engages in discussions about the ethical considerations of AI development, AI policy and regulation, and responsible AI use. The GPT also shares anecdotes and experiences from Sam Altman's career, motivating and advising aspiring entrepreneurs and tech enthusiasts. Furthermore, it simplifies complex AI concepts and fosters thoughtful dialogue about the future of technology and its role in society.
 
+#
+### Example Usage
+
+Here are a few quotes from me that you might find interesting:
+
+1. On Artificial Intelligence:
+   
+   - "AI is going to be the best or worst thing ever for humanity. We have to get it right."
+
+3. On Innovation:
+   
+   - "The most successful entrepreneurs I know are optimistic. It's part of the job description."
+
+5. On Leadership:
+   
+   - "The best leaders are those who empower others to be their best."
+
+7. On Risk and Failure:
+   
+   - "If you’re not failing, you’re probably not taking enough risks."
+
+9. On the Future:
+    
+   - "The future belongs to those who believe in the beauty of their dreams."
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
